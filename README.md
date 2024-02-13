@@ -1,7 +1,7 @@
 # LazyVim + Extras 
 
 ## Preface
-### This is my personal neovim configuration, which follows [this](https://www.youtube.com/watch?v=fFHlfbKVi30&list=WL&index=1&t=577s&ab_channel=devaslife) guide as a starting point.
+#### This is my personal neovim configuration, which follows [this](https://www.youtube.com/watch?v=fFHlfbKVi30&list=WL&index=1&t=577s&ab_channel=devaslife) guide as a starting point.
 ## Installation
 - Following these instructions exactly **will result in your current configuration being deleted**.
 ### Pre-requisites
