@@ -1,12 +1,12 @@
-# nvim
-- This is my personal neovim configuration, which follows [this](https://www.youtube.com/watch?v=fFHlfbKVi30&list=WL&index=1&t=577s&ab_channel=devaslife) guide as a starting point.
+# LazyVim + Extras 
 
-
-## Installation (this removes your current neovim configuration)
+## Preface
+### This is my personal neovim configuration, which follows [this](https://www.youtube.com/watch?v=fFHlfbKVi30&list=WL&index=1&t=577s&ab_channel=devaslife) guide as a starting point.
+## Installation
+- Following these instructions exactly **will result in your current configuration being deleted**.
 ### Pre-requisites
-    - make/cmake
-    - git
-
+- make/cmake
+- git
 ### Building from source
 #### Why?
 - Building from source has numerous advantages. One of the major ones is that you will get all the latest Neovim features. Also, if you are using lazyvim it is **required** that you are using a Neovim version >= 0.8.0, and not all package managers have that version available, for instance apt.
