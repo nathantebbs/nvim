@@ -21,6 +21,15 @@
     git clone https://github.com/nathantebbs/nvim
     cp -r nvim/ ~/.config/nvim/
 
+### Extras
+I personally like to keep up to date with Neovim nightly. If you would like to do the same I have included a script for updated Neovim nightly automatically. Make sure to read up on any potential breaking changes or just the updates in general before running this script.
+
+- From the ~/.config/nvim directory:
+    ./utils/update-neovim-nightly
+
+Note: this will only work once you have built Neovim from source as described above.
+
+
 ## This configuration is based off of:
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
