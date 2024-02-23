@@ -9,7 +9,7 @@
 - git
 ### Building from source
 #### Why?
-- Building from source has numerous advantages. One of the major ones is that you will get all the latest Neovim features. Also, if you are using lazyvim it is **required** that you are using a Neovim version >= 0.8.0, and not all package managers have that version available, for instance apt.
+- Building from source has numerous advantages. One of the major ones is that you will get all the latest Neovim features. Also, if you are using lazyvim it is **required** that you are using a Neovim version >= 0.8.0. Most package managers will have a version >= 0.8.0 but since we are bleeding edge chad developers we chose to build Neovim from source.
 #### Building 
     git clone https://github.com/neovim/neovim
     cd neovim && make CMAKE_BUILD_TYPE=RelWithDebInfo 
