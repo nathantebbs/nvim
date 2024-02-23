@@ -5,8 +5,12 @@
 ## Installation
 - Following these instructions exactly **will result in your current configuration being deleted**.
 ### Pre-requisites
-- make/cmake
-- git
+- cmake 
+- unzip 
+- ninja 
+- tree-sitter 
+- curl
+
 ### Building from source
 #### Why?
 - Building from source has numerous advantages. One of the major ones is that you will get all the latest Neovim features. Also, if you are using lazyvim it is **required** that you are using a Neovim version >= 0.8.0. Most package managers will have a version >= 0.8.0 but since we are bleeding edge chad developers we chose to build Neovim from source.
